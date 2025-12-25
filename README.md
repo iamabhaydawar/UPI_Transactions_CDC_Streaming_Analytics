@@ -44,6 +44,7 @@ Execution order (recommended):
 ---
 
 ## Architecture & components
+<img width="1885" height="937" alt="Screenshot 2025-12-24 194310" src="https://github.com/user-attachments/assets/75908c3a-b0da-4e4a-8ff6-97a9965cb7bb" />
 
 Core pieces:
 - Enhanced data model: Delta table(s) with Change Data Feed enabled
